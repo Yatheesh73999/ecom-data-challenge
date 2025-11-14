@@ -56,3 +56,29 @@ Ingests all the data from the CSV files into their respective SQLite tables.
 Context for Readme file → markdown language
 
 
+```
+## 📂 Project Structure
+
+Deligent/
+│
+├── data/
+│ ├── customers.csv
+│ ├── products.csv
+│ ├── orders.csv
+│ ├── order_items.csv
+│ └── returns.csv
+│
+├── ingestion_script.py
+├── ecom.db (ignored by .gitignore)
+└── README.md
+
+
+
+
+📬 Author
+
+Yatheesh Chandra Maram - R22EH147 
+
+B.Tech CSE (AI & DS)
+
+REVA University
