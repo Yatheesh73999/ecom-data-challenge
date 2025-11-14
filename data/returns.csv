@@ -1,0 +1,11 @@
+return_id,order_id,reason
+1,15,Defective
+2,9,Wrong item
+3,52,Not as described
+4,63,Changed mind
+5,10,Damaged in shipping
+6,74,Defective
+7,81,Wrong item
+8,88,Not as described
+9,7,Changed mind
+10,20,Damaged in shipping

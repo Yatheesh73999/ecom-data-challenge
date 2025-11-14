@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 2c17eb27430b4c425c0a9436a581a5f3e81d3a74 Yatheesh chandra <your_email@example.com> 1763112809 +0530	commit (initial): Initial commit: add data CSVs and ingestion script
+2c17eb27430b4c425c0a9436a581a5f3e81d3a74 267442b1c00e5f33509b01107ba63412dabdc4bd Yatheesh chandra <your_email@example.com> 1763112964 +0530	commit: Add .gitignore to exclude DB and temp files
+267442b1c00e5f33509b01107ba63412dabdc4bd 267442b1c00e5f33509b01107ba63412dabdc4bd Yatheesh chandra <your_email@example.com> 1763112990 +0530	Branch: renamed refs/heads/master to refs/heads/main

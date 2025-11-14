@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 2c17eb27430b4c425c0a9436a581a5f3e81d3a74 Yatheesh chandra <your_email@example.com> 1763112809 +0530	commit (initial): Initial commit: add data CSVs and ingestion script
+2c17eb27430b4c425c0a9436a581a5f3e81d3a74 267442b1c00e5f33509b01107ba63412dabdc4bd Yatheesh chandra <your_email@example.com> 1763112964 +0530	commit: Add .gitignore to exclude DB and temp files
+267442b1c00e5f33509b01107ba63412dabdc4bd 0000000000000000000000000000000000000000 Yatheesh chandra <your_email@example.com> 1763112990 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 267442b1c00e5f33509b01107ba63412dabdc4bd Yatheesh chandra <your_email@example.com> 1763112990 +0530	Branch: renamed refs/heads/master to refs/heads/main
+267442b1c00e5f33509b01107ba63412dabdc4bd 62e0510e0e80f691441b04491eb278c63a77fddd Yatheesh chandra <your_email@example.com> 1763113105 +0530	pull --rebase origin main (start): checkout 62e0510e0e80f691441b04491eb278c63a77fddd
+62e0510e0e80f691441b04491eb278c63a77fddd 8e6c9233fd4bad236dedec7a6636f2426f0e4d9d Yatheesh chandra <your_email@example.com> 1763113192 +0530	commit: Add .gitignore to ignore DB
+8e6c9233fd4bad236dedec7a6636f2426f0e4d9d c5bdbfdb6bae8edc6958399209da7ab91f8e810f Yatheesh chandra <your_email@example.com> 1763114694 +0530	commit: Add .gitignore
+c5bdbfdb6bae8edc6958399209da7ab91f8e810f fe7d46f2b925b4c71b6ad12c4f4cad50215e759c Yatheesh chandra <your_email@example.com> 1763114708 +0530	commit: Initial project files: CSVs, ingestion script, README

@@ -1,0 +1,51 @@
+customer_id,name,email,city
+1,Customer_1,customer_1@email.com,San Antonio
+2,Customer_2,customer_2@email.com,New York
+3,Customer_3,customer_3@email.com,Chicago
+4,Customer_4,customer_4@email.com,Chicago
+5,Customer_5,customer_5@email.com,San Diego
+6,Customer_6,customer_6@email.com,San Antonio
+7,Customer_7,customer_7@email.com,Dallas
+8,Customer_8,customer_8@email.com,New York
+9,Customer_9,customer_9@email.com,Phoenix
+10,Customer_10,customer_10@email.com,New York
+11,Customer_11,customer_11@email.com,Chicago
+12,Customer_12,customer_12@email.com,Philadelphia
+13,Customer_13,customer_13@email.com,New York
+14,Customer_14,customer_14@email.com,Los Angeles
+15,Customer_15,customer_15@email.com,San Antonio
+16,Customer_16,customer_16@email.com,Philadelphia
+17,Customer_17,customer_17@email.com,Chicago
+18,Customer_18,customer_18@email.com,Philadelphia
+19,Customer_19,customer_19@email.com,Dallas
+20,Customer_20,customer_20@email.com,New York
+21,Customer_21,customer_21@email.com,Dallas
+22,Customer_22,customer_22@email.com,San Antonio
+23,Customer_23,customer_23@email.com,Houston
+24,Customer_24,customer_24@email.com,Los Angeles
+25,Customer_25,customer_25@email.com,San Jose
+26,Customer_26,customer_26@email.com,Houston
+27,Customer_27,customer_27@email.com,New York
+28,Customer_28,customer_28@email.com,New York
+29,Customer_29,customer_29@email.com,Dallas
+30,Customer_30,customer_30@email.com,San Antonio
+31,Customer_31,customer_31@email.com,Dallas
+32,Customer_32,customer_32@email.com,San Diego
+33,Customer_33,customer_33@email.com,Philadelphia
+34,Customer_34,customer_34@email.com,San Jose
+35,Customer_35,customer_35@email.com,Houston
+36,Customer_36,customer_36@email.com,Philadelphia
+37,Customer_37,customer_37@email.com,Dallas
+38,Customer_38,customer_38@email.com,San Antonio
+39,Customer_39,customer_39@email.com,Dallas
+40,Customer_40,customer_40@email.com,Philadelphia
+41,Customer_41,customer_41@email.com,San Diego
+42,Customer_42,customer_42@email.com,New York
+43,Customer_43,customer_43@email.com,Chicago
+44,Customer_44,customer_44@email.com,Chicago
+45,Customer_45,customer_45@email.com,New York
+46,Customer_46,customer_46@email.com,Chicago
+47,Customer_47,customer_47@email.com,Los Angeles
+48,Customer_48,customer_48@email.com,Chicago
+49,Customer_49,customer_49@email.com,San Antonio
+50,Customer_50,customer_50@email.com,Houston
